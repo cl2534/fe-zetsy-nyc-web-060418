@@ -48,4 +48,9 @@ header a {
 	color: rgb(150,165,170);
 }
 
+#featured img {
+    border: 5px rgb(152,173,166) solid;
+		display: block;
+		margin-right: 10px;
+}
 
