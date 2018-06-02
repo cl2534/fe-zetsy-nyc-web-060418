@@ -4,6 +4,11 @@
 
 /*////////// Global Styles //////////*/
 
+@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -16,6 +21,8 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+/* Write all remaining styles here */
 
 .clearfix:after {
   content: ".";
@@ -42,4 +49,3 @@ header a {
 }
 
 
-/* Write all remaining styles here */
